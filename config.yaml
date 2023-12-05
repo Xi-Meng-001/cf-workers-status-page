@@ -1,6 +1,6 @@
 settings:
   title: '🌐 网站状态'
-  url: 'https://status.suzukif.xyz' # used for Slack messages
+  url: 'https://production.cf-workers-status-page.1410764887.workers.dev' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
